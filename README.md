@@ -1,5 +1,5 @@
-# Template
+# Max wildlife garden
 
-CAD template files for template project
+CAD template files for Max project
 
-<https://notes.grwd.uk/>
+<https://grwd.uk/max>
